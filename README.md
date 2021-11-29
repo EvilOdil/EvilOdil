@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EvilOdil / Odil janandith
 - 👀 I’m interested in Robotics, AI and ML, Touch interface designing
 - 🌱 I’m currently learning Engineering on my own
-- 💞️ I’m looking to collaborate on intuituve ways to develop smart contact less touch sensors
+- 💞️ I’m looking to collaborate on intuitive ways to develop smart contact less touch sensors
 - 📫 How to reach me - odiljanandith@gmail.com
 
 <!---
